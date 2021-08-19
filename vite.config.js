@@ -8,6 +8,7 @@ export default {
             about: path.resolve(__dirname, 'about.html'),
             members: path.resolve(__dirname, 'members.html'),
             contact: path.resolve(__dirname, 'contact.html'),
+            events: path.resolve(__dirname, 'events.html'),
             // nested: resolve(__dirname, 'nested/index.html')
           }
         }
